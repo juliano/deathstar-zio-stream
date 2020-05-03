@@ -1,2 +1,3 @@
-# pdt-client
-Scala Client para consumo da API do Portal da Transparência (http://portaltransparencia.gov.br/api-de-dados)
+# Death Star ZIO Stream
+
+Repo with code from blog post https://juliano-alves.com/2020/05/04/deathstar-zio-stream/
